@@ -2,7 +2,8 @@
 
 This project analyzes customer churn patterns and builds a predictive churn risk model to help prioritize retention interventions. Using demographic, service, contract, and billing variables, I trained a **logistic regression** model to estimate churn probabilities and translate the results into clear, operational recommendations.
 
-**Report:** [📄 View Full Report (PDF)](Retention_Radar_Styled%20(1).pdf)
+**Report:** [📄 Download Full Report (PDF)](https://raw.githubusercontent.com/RitaAkumu/Retention-Radar/main/Retention_Radar_Styled%20(1).pdf)
+
 
 
 ---
