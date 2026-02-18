@@ -44,14 +44,6 @@ Instead of using a single fixed threshold, customers are ranked by predicted chu
 
 ---
 
-## Contents
-
-- `Retention_Radar_Styled (1).pdf` — Full report with charts, segmentation insights, and action plan
-- *(Optional)* `notebooks/` — EDA + modeling (if you upload notebooks)
-- *(Optional)* `data/` — dataset (if licensing allows)
-
----
-
 ## Tech Stack (suggested)
 
 - Python (pandas, numpy, scikit-learn)
@@ -63,5 +55,5 @@ Instead of using a single fixed threshold, customers are ranked by predicted chu
 ## Author
 
 **Rita Akumu**  
-LinkedIn: *(add your LinkedIn link here)*
+LinkedIn: =https://www.linkedin.com/in/rita-akumu-
 
